@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, My name is Ngo Thanh Tan.
+I want to be a full-stack developer.
 
 <!--
 **ngothanhtan2807/ngothanhtan2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
