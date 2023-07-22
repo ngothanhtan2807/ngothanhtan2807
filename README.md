@@ -1,5 +1,14 @@
-### Hi there 👋, My name is Ngo Thanh Tan.
-I want to be a full-stack developer.
+# Hi there 👋, My name is Ngo Thanh Tan.
+ ### I want to be a full-stack developer.
+- 🌍 I live in Ho Chi Minh City.
+- You can contact me at ngothanhtan2608@gmail.com.
+  
+### Skills
+
+- Java
+- Html
+- Css
+- ReactJs
 
 <!--
 **ngothanhtan2807/ngothanhtan2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
