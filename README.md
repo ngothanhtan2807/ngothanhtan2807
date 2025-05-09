@@ -11,7 +11,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://spring.io/ target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="36" height="36" alt="SpringBoot" /></a>
+<a href="https://spring.io/ target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="40" height="36" alt="SpringBoot" /></a>
 <!--
 **ngothanhtan2807/ngothanhtan2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
